@@ -1,5 +1,10 @@
 # Introduction
   The intent of this project is to book the tickets of the movies through online using this application. This Project provide comfortable,quick and simple way to book the Tickets.The system enables the user to book the tickets of their own choices ,view the timing of their shows and their respective seats,view the Price of the tickets,view the all booking records and cancel the tickets. This online Movie ticket reservation system is one of the best opportunities for those who cannot afford enough time to get their tickets reserved standing in long queues.
+# Crucial Features
+ * Booking Tickets
+ * Cancelling Tickets
+ * View all booking details
+ * Veiw the price of the tickets
 # High level Requirements
  * The customer need to login to this application through mobile phones or desktops.
  * The customer can reserve their seats to their favorate new movies .
