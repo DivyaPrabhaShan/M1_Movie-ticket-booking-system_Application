@@ -33,7 +33,7 @@
      * This application for those who cannot spend time to stand in queue for long duration and book their tickets.
      * It reduces the time complexity.
  # 5.What
-     * To bulid a system to book ticket,cancel ticket,view reserverd seats and details of the reservation ,
+     * To bulid a system to book ticket,cancel ticket,view reserverd seats and details of the reservation ,change the price of the tickets only by the admin.
  # 1.How
      * Here, user can login and provide all the details which is neccessary.
      * choose their favorite new movie.
