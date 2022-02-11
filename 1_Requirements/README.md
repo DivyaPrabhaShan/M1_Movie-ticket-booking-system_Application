@@ -21,8 +21,7 @@
  # Threats
      * Competition in online ticketing portals.
      * Chances of mismanagement with event organizers.
-
-# 4W's and 1H
+# 5W's and 1H
  # 1.Why
      * It will help the Customer to reserve the movie tickets from our home.
      * The process of  Online ticket booking  System makes the customer Easy and Convienient .
@@ -32,8 +31,11 @@
      * This project can be used by all the peoples who are addicted to watch movies in theater and also for peoples who need to relax by watching movies on their week ends                along with families and friends. 
  # 4.When
      * This application for those who cannot spend time to stand in queue for long duration and book their tickets.
-     * It reduces the time complexity
- # 5.How
+     * It reduces the time complexity.
+ # 5.What
+     * To bulid a system to book ticket,cancel ticket,view reserverd seats. 
+     
+ # 1.How
      * Here, user can login and provide all the details which is neccessary.
      * choose their favorite new movie.
      * Book their seats instantially and can make easy payments.
