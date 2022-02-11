@@ -61,18 +61,18 @@
   
 # ARCHITECTURE
   # Behavioral diagrams
-     Low level diagram
+     High level diagram
     
 ![Untitled Workspace (7)](https://user-images.githubusercontent.com/98879001/153560091-8f88cc61-7460-4e57-bd21-33a44e563722.png)
-     High level diagram
+     Low level diagram
     ![Untitled Workspace (2)](https://user-images.githubusercontent.com/98879001/153572433-0fcd0d23-3359-4d70-8f39-9dd9f5b2f1cc.png)
 
   # Structural diagram
-     Low level diagram
+     High level diagram
   ![Untitled Workspace (1)](https://user-images.githubusercontent.com/98879001/153573634-130360ce-460b-4515-ac3b-137be4c0333c.png)
 
 
-     High level diagram
+     Low level diagram
     
 ![Untitled Workspace (11)](https://user-images.githubusercontent.com/98879001/153573708-590fb9ad-2ab3-4698-9751-6442fb3bd5cd.png)
 
