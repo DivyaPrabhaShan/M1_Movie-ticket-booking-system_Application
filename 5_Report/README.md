@@ -48,8 +48,8 @@
   |HR_04|User shall able to cancel the  tickets|
   |HR_05|User shall able to get the details of tickets|
 # LOW LEVEL REQUIREMENTS
-  |  ID |  DESCRIPTION |  
-  |-----|--------------|
+  |  ID |  DESCRIPTION |HLR ID|  
+  |-----|--------------|------|
   |LR_01| User shall able to login to the application through correct login details|HR_01|
   |LR_02| If the login details of the are not in appropriate way.The system shows invalid details|HR_01|
   |LR_03| User shall able get details of the available seats and movies|HR_02|
