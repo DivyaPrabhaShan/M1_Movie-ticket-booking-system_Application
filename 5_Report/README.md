@@ -50,6 +50,8 @@
 
   # Structural diagram
     * Low level diagram
+    ![Untitled Workspace (1)](https://user-images.githubusercontent.com/98879001/153560736-015ef252-3d4d-43d7-b3a7-a9195ff3c0bb.png)
+
     * High level diagram
    
    
