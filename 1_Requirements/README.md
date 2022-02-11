@@ -51,14 +51,14 @@
 # LOW LEVEL REQUIREMENTS
   |  ID |  DESCRIPTION |  HLR ID|  STATUS |
   |-----|--------------|--------|---------|
-  |LR_01| User shall able to login to the application through correct login details|HR_01|Implemented|
-  |LR_02| If the login details of the are not in appropriate way.The system shows invalid details|HR_01|Implemented|
-  |LR_03| User shall able get details of the available seats and movies|HR_02|Implemented|
-  |LR_04| User need to reserve their tickets in user entry mode|HR_02|Implemented|
-  |LR_05| Admin can alter the price of the movie|HR_03|Implemented|
-  |LR_06| If user chooses the already booked seats it shows un available|HR_03|Implemented|
-  |LR_07| User can cancel the tickets after reservation|HR_04|Implemented| 
-  |LR_08| Displaying the summary of the reserved tickets|HR_05|Implemented|
+  |LR01| User shall able to login to the application through correct login details|HR_01|Implemented|
+  |LR02| If the login details of the are not in appropriate way.The system shows invalid details|HR_01|Implemented|
+  |LR03| User shall able get details of the available seats and movies|HR_02|Implemented|
+  |LR04| User need to reserve their tickets in user entry mode|HR_02|Implemented|
+  |LR05| Admin can alter the price of the movie|HR_03|Implemented|
+  |LR06| If user chooses the already booked seats it shows un available|HR_03|Implemented|
+  |LR07| User can cancel the tickets after reservation|HR_04|Implemented| 
+  |LR08| Displaying the summary of the reserved tickets|HR_05|Implemented|
   
   
   
