@@ -39,7 +39,7 @@
      * choose their favorite new movie.
      * Book their seats instantially and can make easy payments.
      * user defined which connects digitally.
-     # HIGH LEVEL REQUIREMENTS:
+# HIGH LEVEL REQUIREMENTS:
   |  ID |  DESCRIPTION |  CATEGORY |  STATUS |
   |-----|--------------|-----------|---------|
   |HR_01|User shall able to login|Technical| Implemented |
