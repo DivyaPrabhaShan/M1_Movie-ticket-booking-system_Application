@@ -42,6 +42,36 @@
      * user defined which connects digitally.
 # ARCHITECTURE
   # Behavioral diagrams
+    * Low level diagram
+    * High level diagram
+  # Structural diagram
+    * Low level diagram
+    * High level diagram
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
      
       
 
