@@ -33,13 +33,33 @@
      * This application for those who cannot spend time to stand in queue for long duration and book their tickets.
      * It reduces the time complexity.
  # 5.What
-     * To bulid a system to book ticket,cancel ticket,view reserverd seats. 
+     * To bulid a system to book ticket,cancel ticket,view reserverd seats and details of reservation ,  
      
  # 1.How
      * Here, user can login and provide all the details which is neccessary.
      * choose their favorite new movie.
      * Book their seats instantially and can make easy payments.
      * user defined which connects digitally.
+     # HIGH LEVEL REQUIREMENTS:
+  |  ID |  DESCRIPTION |  CATEGORY |  STATUS |
+  |-----|--------------|-----------|---------|
+  |HR_01|User shall able to login|Technical| Implemented |
+  |HR_02|User shall able to reserve tickets| Technical| Implemented|
+  |HR_03|User shall able to see details about movie tickets| Technical|Implemented|
+  |HR_04|User shall able to cancel the  tickets|Technical|Implemented|
+  |HR_05|User shall able to get the details of tickets|Technical|Implemented|
+# LOW LEVEL REQUIREMENTS
+  |  ID |  DESCRIPTION |  HLR ID|  STATUS |
+  |-----|--------------|--------|---------|
+  |LR01| User shall able to login to the application through correct login details|HR_01|Implemented|
+  |LR02| If the login details of the are not in appropriate way.The system shows invalid details|HR_01|Implemented|
+  |LR03| User shall able get details of the available seats and movies|HR_02|Implemented|
+  |LR04| User need to reserve their tickets in user entry mode|HR_02|Implemented|
+  |LR05| Admin can alter the price of the movie|HR_03|Implemented|
+  |LR06| If user chooses the already booked seats it shows un available|HR_03|Implemented|
+  |LR07| User can cancel the tickets after reservation|HR_04|Implemented| 
+  |LR08| Displaying the summary of the reserved tickets|HR_05|Implemented|
+  
 # ARCHITECTURE
   # Behavioral diagrams
      Low level diagram
