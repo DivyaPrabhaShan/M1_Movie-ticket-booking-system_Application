@@ -33,7 +33,7 @@
      * This application for those who cannot spend time to stand in queue for long duration and book their tickets.
      * It reduces the time complexity.
  # 5.What
-     * To bulid a system to book ticket,cancel ticket,view reserverd seats and details of their reservation. 
+     * To bulid a system to book ticket,cancel ticket,view reserverd seats and details of their reservation, change the price of tickets only by admin. 
      
  # 1.How
      * Here, user can login and provide all the details which is neccessary.
@@ -44,10 +44,10 @@
   |  ID |  DESCRIPTION |  CATEGORY |  STATUS |
   |-----|--------------|-----------|---------|
   |HR_01|User shall able to login|Technical| Implemented |
-  |HR_02|User shall able to reserve tickets| Techical| Implemented|
+  |HR_02|User shall able to reserve tickets| Technical| Implemented|
   |HR_03|User shall able to see details about movie tickets| Technical|Implemented|
-  |HR_04|User shall able to cancel the reserved tickets|Technical|Implemented|
-  |HR_05|User shall able to get the summary of reserved tickets|Technical|Implemented|
+  |HR_04|User shall able to cancel the  tickets|Technical|Implemented|
+  |HR_05|User shall able to get the details of tickets|Technical|Implemented|
 # LOW LEVEL REQUIREMENTS
   |  ID |  DESCRIPTION |  HLR ID|  STATUS |
   |-----|--------------|--------|---------|
