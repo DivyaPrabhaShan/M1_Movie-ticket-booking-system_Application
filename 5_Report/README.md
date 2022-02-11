@@ -42,9 +42,6 @@
      * user defined which connects digitally.
 # ARCHITECTURE
   # Behavioral diagrams
-    # Low level diagram
-       ![Untitled Workspace (7)](https://user-images.githubusercontent.com/98879001/153571172-2df2583f-0046-4951-97b1-1348b1d58a02.png)
-
-    # High level diagram
-       ![Untitled Workspace (2)](https://user-images.githubusercontent.com/98879001/153571329-88cb1604-36f8-4315-b4ff-001a878bb540.png)
+     
+      
 
