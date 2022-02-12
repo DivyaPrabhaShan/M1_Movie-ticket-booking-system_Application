@@ -20,7 +20,7 @@
 <a href="https://app.codiga.io/public/user/github/DivyaPrabhaShan">
    <img src="https://api.codiga.io/public/badge/user/github/DivyaPrabhaShan?style=light" alt="codiga badge" />
 </a>
-# BADGE OF CADACY
+#  BADGE OF CADACY
 
   [![Codacy Badge](https://app.codacy.com/project/badge/Grade/351270e1dd574848af0fd7e62b4401d4)](https://www.codacy.com/gh/DivyaPrabhaShan/M1_Onlinebasedmovieticketbookingsystem_Application/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DivyaPrabhaShan/M1_Onlinebasedmovieticketbookingsystem_Application&amp;utm_campaign=Badge_Grade)
 
