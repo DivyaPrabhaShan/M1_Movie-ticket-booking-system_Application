@@ -13,10 +13,8 @@
    
 # BADGE OF CODIGA   
    
-<a href="https://app.codiga.io/public/user/github/DivyaPrabhaShan">
-   <img src="https://api.codiga.io/public/badge/user/github/DivyaPrabhaShan?style=light" alt="codiga badge" />
-</a>
-https://api.codiga.io/project/31269/status/svg
+
+![codiga_grade]https://api.codiga.io/project/31269/status/svg
 
 https://app.codiga.io/public/project/31269/M1_Onlinebasedmovieticketbookingsystem_Application/dashboard
 
