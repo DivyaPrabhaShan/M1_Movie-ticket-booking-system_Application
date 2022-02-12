@@ -14,7 +14,7 @@
 # BADGE OF CODIGA   
    
 
-![codiga_grade]https://api.codiga.io/project/31269/status/svg
+![codiga_grade](https://api.codiga.io/project/31269/status/svg)
 
 https://app.codiga.io/public/project/31269/M1_Onlinebasedmovieticketbookingsystem_Application/dashboard
 
