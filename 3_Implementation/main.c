@@ -2,10 +2,11 @@
 Online based Movie ticket booking system
 
 */
-
+/*
 #include<stdio.h>
 #include<stdlib.h>
-#include<string.h>
+#include<string.h>*/
+#include "main.h"
 
 struct reserve
 {
