@@ -1,15 +1,6 @@
 # M1_ Onlinebasedmovieticketbookingsystem_Application
 # Online based movie ticket booking system 
    In this system user can reserve the movie tickets ,user can get booking details , user can cancel the tickets.This system one of the best opportunities for those who cannot afford enough time to get their tickets  reserved without standing in long queue.
-# FOLDERS CONTENT
-   | S.NO | TITLE | DESCRIPTION |
-   |------|-------|-------------|
-   |  1   | 0_CERTIFICATE| SOLOLEARN,HACHEREARTH,GITHUB LEARNING,CISCO WEBEX|
-   |  2   | 1_REQUIREMENTS| DEFINING USER REQUIREMENTS,FEATURES,SWOT ANALYSIS,5W AND 1H ,HIGH LEVEL REQUIREMENTS AND LOW LEVEL REQUIREMENTS|
-   |  3   | 2_ARCHITECTURE| BEHAVIOURAL AND STRUCTURAL DIAGRAMS|
-   |  4   | 3_IMPLEMENTATION| SOURCE CODE|
-   |  5   | 4_TEST PLAN AND OUTPUT| HIGH LEVEL AND LOW LEVEL TEST PLANS|
-   |  6   | 5_IMAGES AND OUTPUT | COMPILATION OUTPUT OF THE SOURCE CODE
    
 # BADGE OF CODIGA   
    
