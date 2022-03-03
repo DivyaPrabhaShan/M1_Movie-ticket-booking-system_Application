@@ -13,4 +13,4 @@
 
 [![Build-linux](https://github.com/DivyaPrabhaShan/M1_Onlinebasedmovieticketbookingsystem_Application/actions/workflows/Build-linux.yml/badge.svg)](https://github.com/DivyaPrabhaShan/M1_Onlinebasedmovieticketbookingsystem_Application/actions/workflows/Build-linux.yml) 
 [![C/C++ CI](https://github.com/DivyaPrabhaShan/M1_Onlinebasedmovieticketbookingsystem_Application/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/DivyaPrabhaShan/M1_Onlinebasedmovieticketbookingsystem_Application/actions/workflows/c-cpp.yml)
-[![C/C++ CI](https://github.com/DivyaPrabhaShan/M1_Onlinebasedmovieticketbookingsystem_Application/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/DivyaPrabhaShan/M1_Onlinebasedmovieticketbookingsystem_Application/actions/workflows/c-cpp.yml)
+[![Unit Testing -Unity](https://github.com/DivyaPrabhaShan/M1_Onlinebasedmovieticketbookingsystem_Application/actions/workflows/Unity.yml/badge.svg)](https://github.com/DivyaPrabhaShan/M1_Onlinebasedmovieticketbookingsystem_Application/actions/workflows/Unity.yml)
