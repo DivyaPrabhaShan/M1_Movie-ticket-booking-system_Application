@@ -11,5 +11,5 @@
 
   [![Codacy Badge](https://app.codacy.com/project/badge/Grade/351270e1dd574848af0fd7e62b4401d4)](https://www.codacy.com/gh/DivyaPrabhaShan/M1_Onlinebasedmovieticketbookingsystem_Application/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DivyaPrabhaShan/M1_Onlinebasedmovieticketbookingsystem_Application&amp;utm_campaign=Badge_Grade)
 
-[![Build-linux](https://github.com/DivyaPrabhaShan/M1_Onlinebasedmovieticketbookingsystem_Application/actions/workflows/Build-linux.yml/badge.svg)](https://github.com/DivyaPrabhaShan/M1_Onlinebasedmovieticketbookingsystem_Application/actions/workflows/Build-linux.yml)
-
+[![Build-linux](https://github.com/DivyaPrabhaShan/M1_Onlinebasedmovieticketbookingsystem_Application/actions/workflows/Build-linux.yml/badge.svg)](https://github.com/DivyaPrabhaShan/M1_Onlinebasedmovieticketbookingsystem_Application/actions/workflows/Build-linux.yml) 
+[![C/C++ CI](https://github.com/DivyaPrabhaShan/M1_Onlinebasedmovieticketbookingsystem_Application/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/DivyaPrabhaShan/M1_Onlinebasedmovieticketbookingsystem_Application/actions/workflows/c-cpp.yml)
