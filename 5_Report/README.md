@@ -77,6 +77,7 @@
      Low level diagram
     
 ![Untitled Workspace (11)](https://user-images.githubusercontent.com/98879001/153573708-590fb9ad-2ab3-4698-9751-6442fb3bd5cd.png)
+# TEST PLAN AND OUTPUT
 | Test ID | HLT ID | DESCRIPTION | EXP IN | EXP OUT | ACTUAL OUT |
 |---------|--------|-------------|--------|---------|------------|
 |T_01     | HR_01  | Provide required details to login | password | Successfully logged in | Successfully logged in |
